@@ -38,8 +38,8 @@ function AddTodoList(e) {
                 <li class="task1">
                       ${inputFieldvalue}
                 </li>
-                <li ><img class="add" src="/assests/complete.svg" alt="" srcset=""></li>
-                <li ><img class="delete" src="/assests/delete.svg" alt="" srcset=""></li>
+                <li ><img class="add" src="assests/complete.svg" alt="" srcset=""></li>
+                <li ><img class="delete" src="assests/delete.svg" alt="" srcset=""></li>
 
             </div>`;
         // console.log('add list');
